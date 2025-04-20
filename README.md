@@ -21,5 +21,7 @@ This application is work in progress and will contain the below features
 
 # Modern Tech Stack:
   Frontend: React.js for dynamic user experiences.
+  
   Styling: Tailwind CSS for a sleek, professional design.
+  
   Backend: Node.js and Express with MongoDB for secure and scalable data management.
